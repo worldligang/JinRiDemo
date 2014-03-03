@@ -1,0 +1,9 @@
+1. $ mkdir ~/Desktop/目录名
+2. $ git clone https:// 项目地址
+3. $ 添加代码或者文件
+4. $ git add 你要提交的文件名或路径
+5. $ git commit -m '提交信息'
+6. $ git push origin master
+
+
+7. $ 以上。
